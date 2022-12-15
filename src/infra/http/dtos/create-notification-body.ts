@@ -1,6 +1,7 @@
 import { IsNotEmpty, Length } from "class-validator";
 import { IsUUID } from "class-validator";
 
+// DTO - Data transfer Object
 export class CreateNotificationBody {
   @IsNotEmpty()
   @IsUUID()
