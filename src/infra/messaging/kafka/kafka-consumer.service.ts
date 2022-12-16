@@ -14,7 +14,7 @@ export class KafkaConsumerService
         sasl: {
           mechanism: 'scram-sha-256',
           username: 'aGVscGVkLWNvcmFsLTE0NjgxJAoS7cG6lO_0kG7cQrhSLxkhwjWMm9hA3Z0MCf4',
-          password: 'dFLLR9miFpwWHO-Ps5aJk27jcIRkS0kp4p56Fa27jAO5vSDp0HJ1ZsvKtA2bnhK4A6fX0g==',
+          password: '**********',
         },
         ssl: true,
       },
